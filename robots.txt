@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: igrovye-avtomaty-s-horoshey-otdachey.github.io
+Sitemap: https://igrovye-avtomaty-s-horoshey-otdachey.github.io/sitemap.xml
